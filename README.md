@@ -22,4 +22,4 @@ I graduated as an IT at ITIS "Sen. Onofrio Ianuzzi" of Andria. Actually I'm a Co
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=riccardoFus&icon=7&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=riccardoFus&label=Gente%20curiosa&pretty=false)](https://visitcount.itsvg.in)

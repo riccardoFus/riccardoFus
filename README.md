@@ -1,5 +1,14 @@
 # 💫 About Me:
-I graduated as an IT at ITIS "Sen. Onofrio Ianuzzi" of Andria. Actually I'm a Computer Science Student at the University of Trento.<br>I know a lot of stuff about IT like:<br>- Algorithms<br>- Data Structures<br>- Networking<br>- Databases<br>- Software Engineering<br>I know a lot of programming languages; I'm backend-team but I like work also in the frontend.
+Hey there, I'm Riccardo, a computer science student at the University of Trento with a passion for DJing. Born on November 25th, 2002, in Andria, Italy, I've always been surrounded by music, thanks to my music-loving parents.
+
+Music isn't just a hobby for me; it's my way of life. From classical tunes to modern beats, I'm always exploring new sounds and finding inspiration for my DJ sets.
+
+My journey into the world of technology began during my teenage years at ITIS Sen. Onofrio Jannuzzi, where I excelled in computer science. Now, at the University of Trento, I'm diving deeper into subjects like algorithms and programming languages.
+
+Beyond my studies, I'm always eager to learn more about artificial intelligence and computer science generally. Whether I'm behind the decks or coding, I'm driven by a passion for creativity and innovation.
+
+Welcome to my world, where music and technology collide to create something truly special!
+
 
 
 ## 🌐 Socials:

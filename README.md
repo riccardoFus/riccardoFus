@@ -18,8 +18,5 @@ I graduated as an IT at ITIS "Sen. Onofrio Ianuzzi" of Andria. Actually I'm a Co
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=riccardoFus&label=Gente%20curiosa&pretty=false)](https://visitcount.itsvg.in)
